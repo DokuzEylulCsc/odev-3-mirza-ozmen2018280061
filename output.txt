@@ -1,0 +1,10 @@
+N00000023,32
+N00000002,31
+NA0000027,27
+N00000035,22
+N00000045,0
+En Kucuk Not :0
+En Buyuk Not :32
+Ortalama : 22.4
+Medyan   :27
+Aciklik :32
